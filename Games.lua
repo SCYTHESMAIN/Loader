@@ -1,7 +1,7 @@
 return {
 	{
 		name = "Murder Mystery 2",
-		image = "rbxassetid://0",
+		image = "rbxassetid://113592846755817",
 		script = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/SCYTHESMAIN/SCYTHE-HUB-SCRIPTS/main/MM2_v1.0.lua"))()]]
 	},
 	{
