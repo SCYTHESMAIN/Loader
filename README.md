@@ -1,6 +1,6 @@
 # SCYTHE HUB
 
-Scythe Hub is a script hub to load scripts by scythemains
+Scythe Hub is a script hub to load scripts by scythemain
 
 Supported games:
 Murder Mystery 2,
